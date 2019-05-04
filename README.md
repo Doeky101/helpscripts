@@ -1,6 +1,6 @@
 Just copy paste the code into a new class and you are good to go.
 
-Click anywhere to add points to a polygon.
+Click anywhere to add points to the polygon.
 
 A ghostimage will appear after you've added one point.
 
